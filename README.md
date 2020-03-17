@@ -1,6 +1,6 @@
 # anti-analysis
 
-demo of anti-analysis techniques (can be used by malware)
+collection of anti-analysis techniques & corresponding API calls
 
 anti-debugging:
 - DebuggerCheck - checks for invasive debuggers
