@@ -1,6 +1,6 @@
 # :dagger: anti-analysis :dagger:
 
-This is a collection of anti-analysis techniques and their corresponding API calls.
+This is a collection of anti-analysis techniques used by Windows malware, and their corresponding API calls.
 
 Anti-debugging:
 - DebuggerCheck - checks for invasive debuggers
